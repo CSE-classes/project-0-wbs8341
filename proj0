@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "CSE3320 proj0 printing in user space: $@"
